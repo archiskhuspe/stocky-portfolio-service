@@ -1,4 +1,4 @@
-# Stocky Portfolio Service by Archis Khuspe
+# Stocky: A Portfolio Service by Archis Khuspe
 
 A production-grade backend service for managing stock rewards, built with Go, Gin, and PostgreSQL.
 
